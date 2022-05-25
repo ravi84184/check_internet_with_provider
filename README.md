@@ -1,16 +1,9 @@
 # check_internet_with_provider
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/PPmklgYoVjw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PPmklgYoVjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=PPmklgYoVjw)
 
-## Getting Started
+## Visitors Count
 
-This project is a starting point for a Flutter application.
+<img align="left" src = "https://profile-counter.glitch.me/check_internet_with_provider/count.svg" alt ="Loading">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
